@@ -11,4 +11,4 @@ Then by extracting the information from the database it performs analytics.
 
 Two examples of daily metrics are measured: the daily unique ips and the daily unique browsers.
 
-This is based off of https://www.dataquest.io/blog/data-pipelines-tutorial/
+This is based off of https://github.com/dataquestio/analytics_pipeline
